@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name pmod_lcd35-rescue)(type Legacy)(uri ${KIPRJMOD}/pmod_lcd35-rescue.lib)(options "")(descr ""))
   (lib (name lcd_parts)(type Legacy)(uri ${KIPRJMOD}/lcd_parts.lib)(options "")(descr ""))
+  (lib (name pmod_lcd35-cache)(type Legacy)(uri ${KIPRJMOD}/pmod_lcd35-cache.lib)(options "")(descr ""))
 )
